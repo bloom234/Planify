@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+fpdf2
+pillow
+python-docx
+openpyxl
+groq
+together
+requests
+python-dotenv
