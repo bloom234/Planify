@@ -1,0 +1,12 @@
+streamlit
+pandas
+groq
+openai
+python-dotenv
+fpdf2
+python-docx
+XlsxWriter
+Pillow
+plotly
+streamlit-lottie
+streamlit-extras
